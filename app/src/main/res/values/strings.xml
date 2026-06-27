@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikasi Absensi QR</string>
+    <string name="welcome_message">Selamat datang di Aplikasi Absensi QR Code</string>
+    <string name="btn_scanner">Scan QR Code</string>
+    <string name="btn_attendance_list">Daftar Kehadiran</string>
+    <string name="title_scanner">Pemindai QR Code</string>
+    <string name="title_attendance_list">Daftar Kehadiran</string>
+</resources>

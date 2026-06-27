@@ -1,0 +1,34 @@
+# Gradle files
+.gradle/
+build/
+*.jar
+*.aar
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Generated files
+bin/
+gen/
+.idea/
+.DS_Store
+*.iml
+*.iws
+*.ipr
+
+# Android Studio specific
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Log Files
+*.log
+
+# Captures
+.externalNativeBuild
+.cxx
+
+# Environment files
+.env
+.env.local
